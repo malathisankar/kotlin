@@ -1,0 +1,28 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">KOTLIN</string>
+
+    <string name="pn">My Pref</string>
+    <string name="pk">My Key</string>
+
+    //button
+    <string name="btn">SKIP</string>
+    //button1
+    <string name="btn1">Get Started</string>
+
+    //Title
+    <string name="Slide_logo_Title">UNITED GROOVES</string>
+
+    //Slide_1 Headings and Description
+    <string name="Slide_1_heading">Welcome to United Grooves !</string>
+    <string name="Slide_1_desc">United Grooves School of dance is a dance studio with a space of 1100sq.ft and Air conditioned,which is located in Anna nagar,one of the most busiest place in chennai.</string>
+
+    //Slide_2 Headings and Description
+    <string name="Slide_2_heading">Why Choose Us</string>
+    <string name="Slide_2_desc">If you are seeking high level dance knowledge or if you have great dance knowledge to share with new generation,You are in the right place.</string>
+    <string name="pref_key">pref_key</string>
+    <string name="prefkey">pref_key</string>
+    <string name="pref">1</string>
+    <string name="mn">my name</string>
+
+
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="Slide_Title" type="id" />
+    <item name="Slide1_heading" type="id" />
+    <item name="dots" type="id">dots</item>
+</resources>
